@@ -108,20 +108,6 @@ The analysis also considered data limitations, particularly regarding employee i
 
 [![Returns Analysis](returns-analysis.png)](returns-analysis.png)
 
-## Project Conclusion
-
-The analysis of Lotus Group Retail reveals a profitable business with distinct performance patterns across products, customers, stores, employees, and returns.
-
-The company achieved approximately EGP 39.65 million in completed revenue, generating EGP 8.44 million in gross profit and a gross margin of 21.29%.
-
-Electronics stands out as the main revenue-generating product category, while Clothing leads in sales volume. Customer analysis highlights the importance of loyalty segments, particularly Bronze and Silver customers, which represent significant revenue contributions.
-
-At the store level, Flagship locations demonstrate the strongest financial performance, with Cairo standing out among the analyzed cities.
-
-Employee analysis provides an overview of revenue distribution across job roles and salary structures, while returns analysis identifies Duplicate Orders as the leading return reason.
-
-Overall, the findings highlight opportunities to strengthen profitability, optimize product strategies, improve customer retention, enhance store performance, and reduce avoidable returns.
-
 For a more detailed discussion of the findings and business insights, see:
 
 - [Lotus Group Retail - Conclusion (English)](Lotus-Group-Retail-Conclusion.md#english)
